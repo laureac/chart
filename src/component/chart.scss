@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=Roboto+Mono:wght@300;500;700&display=swap');
+
+.container{
+width: 40vw;
+}
+.dashboard{
+    border-radius: 30px;
+    padding: 10px;
+    margin: 30px;
+    box-shadow:0 0 25px rgb(63, 61, 90), 0 0 25px rgb(63, 61, 90), 0 0 5px rgb(56, 53, 92);
+    width: 85vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h1{
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 3px;
+    margin: 2rem;
+}
